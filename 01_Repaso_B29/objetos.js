@@ -32,9 +32,10 @@ const ayudanteSanta = {
     },
 
     trabajar: function () {
-        console.log('E')
+        console.log('El perro de Santa no trabaja XD')
     }
 }
 
 console.log('El perro de santa tiene pedigree??? ', ayudanteSanta.pedigree)
 ayudanteSanta.trabajar();
+
